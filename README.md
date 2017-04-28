@@ -6,15 +6,13 @@ ccc
 
 
 zai lai yi hang
-=======
+
 you lai le yi ge 
->>>>>>> feature1
 
 
 add more
 
-<<<<<<< HEAD
 ccc
-=======
+
 GSDF
->>>>>>> dev
+

@@ -20,3 +20,5 @@ administrator/servyou    (windows mstsc)  原先的域：SERVYOU-975F4F9
 
 
 020104179-PC 10.209.130.126
+
+http://idea.iteblog.com/key.php

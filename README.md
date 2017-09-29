@@ -25,3 +25,5 @@ IDEA：http://idea.iteblog.com/key.php
 
 
 vps root密码：219219zz
+
+shadowsocks密码：219219zz
